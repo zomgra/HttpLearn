@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpLearn", "HttpLearn.csproj", "{707C9EC8-3BA5-46A6-A727-5DBCEE91484D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707C9EC8-3BA5-46A6-A727-5DBCEE91484D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{707C9EC8-3BA5-46A6-A727-5DBCEE91484D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{707C9EC8-3BA5-46A6-A727-5DBCEE91484D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{707C9EC8-3BA5-46A6-A727-5DBCEE91484D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698DD8B2-C70E-48E4-A33D-C3889F01A526}
+	EndGlobalSection
+EndGlobal
